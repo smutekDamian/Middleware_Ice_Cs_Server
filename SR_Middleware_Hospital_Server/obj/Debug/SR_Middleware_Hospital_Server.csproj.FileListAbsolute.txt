@@ -1,0 +1,9 @@
+c:\users\damian\documents\visual studio 2015\Projects\SR_Middleware_Hospital_Server\SR_Middleware_Hospital_Server\bin\Debug\SR_Middleware_Hospital_Server.exe.config
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\SR_Middleware_Hospital_Server\SR_Middleware_Hospital_Server\obj\Debug\SR_Middleware_Hospital_Server.csprojResolveAssemblyReference.cache
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\SR_Middleware_Hospital_Server\SR_Middleware_Hospital_Server\bin\Debug\SR_Middleware_Hospital_Server.exe
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\SR_Middleware_Hospital_Server\SR_Middleware_Hospital_Server\bin\Debug\SR_Middleware_Hospital_Server.pdb
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\SR_Middleware_Hospital_Server\SR_Middleware_Hospital_Server\bin\Debug\Ice.dll
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\SR_Middleware_Hospital_Server\SR_Middleware_Hospital_Server\bin\Debug\Ice.pdb
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\SR_Middleware_Hospital_Server\SR_Middleware_Hospital_Server\bin\Debug\Ice.xml
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\SR_Middleware_Hospital_Server\SR_Middleware_Hospital_Server\obj\Debug\SR_Middleware_Hospital_Server.exe
+C:\Users\Damian\Documents\Visual Studio 2015\Projects\SR_Middleware_Hospital_Server\SR_Middleware_Hospital_Server\obj\Debug\SR_Middleware_Hospital_Server.pdb
